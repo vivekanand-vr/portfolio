@@ -1,0 +1,30 @@
+.projects{
+  text-align: center;
+    color: #616161;
+    font-size: 50px;
+}
+h2 {
+    font-family: 'Inter', sans-serif;
+  font-size: 25px;
+}
+
+a {
+    color: blue;
+    font-weight: bold;
+  }
+
+  .plist li {
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+  }
+
+  p {
+    font-family: 'Mulish', sans-serif;
+    font-size: 16px;
+  }
+
+  .desc{
+    padding-top: 1%;
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+  }

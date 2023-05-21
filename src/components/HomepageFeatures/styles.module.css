@@ -1,0 +1,31 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+p {
+  font-family: 'Mulish', sans-serif;
+  font-size: 18px;
+}
+
+h2 {
+  font-family: 'Inter', sans-serif;
+  font-size: 25px;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
+}
+
+li {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+}
