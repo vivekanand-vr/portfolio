@@ -60,7 +60,7 @@ const config = {
         items: [
           
           {to: '/projects', label: 'Projects', position: 'left'},
-          {to: ' ', label: 'Resume', position: 'right'},
+          {to: 'https://drive.google.com/file/d/1ySXvMHzHB34i7r2ygZkbEZfc7eoOSinj/view?usp=drive_link', label: 'Resume', position: 'right'},
           {to: 'https://www.linkedin.com/in/Vivekanand-vernekar/', label: 'LinkedIn', position: 'right'},
           {to: 'https://github.com/vivekanand-vr', label: 'GitHub', position: 'right'}],
        
